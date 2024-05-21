@@ -1,5 +1,5 @@
 # Notepad
-A console application built using C/C++ in Visual Studio Community. It provides basic text editing functionalities.
+A console application built using C# in Visual Studio Community. It provides basic text editing functionalities.
 
 ## Features
 - Basic Text Editing: Provides a platform for users to write, edit, and manage text documents.
