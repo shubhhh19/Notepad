@@ -1,0 +1,34 @@
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\bin\Debug\A02.exe.config
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\bin\Debug\A02.exe
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\bin\Debug\A02.pdb
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.csproj.AssemblyReference.cache
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\MainWindow.g.cs
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\App.g.cs
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02_MarkupCompile.cache
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02_MarkupCompile.lref
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\MainWindow.baml
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.g.resources
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.Properties.Resources.resources
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.csproj.GenerateResource.cache
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.csproj.CoreCompileInputs.cache
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.exe
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\A02.pdb
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\about.g.cs
+C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\obj\Debug\about.baml
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\bin\Debug\A02.exe.config
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\bin\Debug\A02.exe
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\bin\Debug\A02.pdb
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.csproj.AssemblyReference.cache
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\about.g.cs
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\MainWindow.g.cs
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\App.g.cs
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02_MarkupCompile.cache
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02_MarkupCompile.lref
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\about.baml
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\MainWindow.baml
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.g.resources
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.Properties.Resources.resources
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.csproj.GenerateResource.cache
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.csproj.CoreCompileInputs.cache
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.exe
+C:\Users\sonis\OneDrive\Documents\Downloads\Jatin_and_Shubh_A02_WPF\assignment2-deadly-duo\obj\Debug\A02.pdb

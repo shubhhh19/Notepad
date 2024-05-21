@@ -1,0 +1,33 @@
+﻿<Window x:Class="A02.about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A02"
+        mc:Ignorable="d"
+        Title="NotePad About" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="ImageControl"  Source="C:\Users\thaku\OneDrive\Desktop\Software Course\Semester 3\Windows Programming\Assignments\Assignment 2\A02\A02\assignment2-deadly-duo\jaey.png"  Width="86" HorizontalAlignment="Left" VerticalAlignment="Top" Height="72" Margin="227,0,0,0" Grid.Column="2" />
+        <Grid Background="#F0F0F0" Margin="0,0,-267,10">
+            <Border BorderBrush="#007ACC" BorderThickness="1" CornerRadius="5" Padding="10" Margin="20">
+                <StackPanel Margin="0,0,-434,0">
+                    <TextBlock Text="About Notepad" FontWeight="Bold" FontSize="24" Foreground="#007ACC" Margin="0,0,0,10"/>
+                    <TextBlock Text="Notepad is a simple text editor for Windows that has been a part of the operating system since its early versions. It is a lightweight and easy-to-use tool for creating and editing text documents." TextWrapping="Wrap" FontSize="16" Width="780"/>
+                    <TextBlock Text="Features" FontWeight="Bold" FontSize="24" Foreground="#007ACC" Margin="0,5,0,10"/>
+                    <TextBlock Text="It can edit suitable file types such batch files, INI files and log files as well as text files." Width="780" FontSize="16"/>
+                    <TextBlock Text="Limitations" FontWeight="Bold" FontSize="24" Foreground="#007ACC" Margin="0,5,0,10"/>
+                    <TextBlock Text="1 Its basic and lacks advanced features" FontSize="20"/>
+                    <TextBlock Text="2 Works only on plain text files,which means it can't handle rich text" FontSize="20"/>
+                    <TextBlock Text="3 It can only save and open files in a limited set of programs eg .txt and .bat" FontSize="20"/>
+                    <TextBlock Text="Version: 10.0.0" FontWeight="Bold" FontSize="18" Margin="0,5,0,0"/>
+                    <TextBlock Text="Copyright Â© 1983-2023 Microsoft Corporation. All rights reserved." FontWeight="Bold" FontSize="18" Margin="0,5,0,0"/>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>
